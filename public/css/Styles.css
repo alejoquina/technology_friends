@@ -1,0 +1,104 @@
+form .avatar{
+    width: 20%;
+    margin-bottom: 15px;
+}
+
+.navbar-collapse .container-avatar .avatar,
+.pub-image .container-avatar {
+    width: 30px;
+    height: 30px;
+    border-radius: 900px;
+    margin-bottom: 5px;
+    overflow: hidden;
+    
+}
+.pub-image{
+    margin-bottom: 25px;
+}
+
+.pub-image .container-avatar .avatar{
+    width: 100%;
+    
+}
+
+.pub-image .container-avatar{
+    float: left;
+    margin-right: 15px;
+}
+
+.pub-image .data-user{
+    font-weight: bold;
+    line-height: 35px;   
+}
+
+.pub-image .data-user a{
+    color: #444;
+    list-style: none;
+    text-decoration: none;
+}
+
+.image-container{
+    width: 100%;
+    overflow: hidden;
+}
+
+.image-container img{
+    width: 100%;
+
+}
+
+.pub-image .card-body{
+    padding: 0px;
+}
+
+.nickname{
+    color: gray;
+    
+}
+
+.pub-image .description{
+    padding: 20px;
+    padding-bottom: 0px;
+    
+}
+
+.pub-image .btn-coments{
+    padding: 0px;
+    
+    margin-top: -38px;
+
+}
+
+
+.likes{
+    padding: 0px 20px 20px;
+    float: left;
+
+}
+.likes img{
+    width: 20px;
+    
+}
+
+.pub-image  .comment{
+    padding: 20px;
+    
+}
+
+.number_likes{
+    color: gray;
+    font-size: 11px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
